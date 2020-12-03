@@ -41,7 +41,7 @@
     <property name="ToolWindowRun.ShowToolbar" value="false" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
-  <component name="RunManager" selected="Application.Hello.ThreeSort">
+  <component name="RunManager" selected="Application.Hello.RightTriangle">
     <configuration name="Exchange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Exchange" />
       <module name="Computer Science" />
@@ -51,6 +51,18 @@
     <configuration name="HelloWorld" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="HelloWorld" />
       <module name="Computer Science" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Hello.HelloGoodbye" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Hello.HelloGoodbye" />
+      <module name="Computer Science" />
+      <option name="PROGRAM_PARAMETERS" value="Alejandra Bahati" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Hello.RightTriangle" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Hello.RightTriangle" />
+      <module name="Computer Science" />
+      <option name="PROGRAM_PARAMETERS" value="3 4 5" />
       <method v="2" />
     </configuration>
     <configuration name="Hello.ThreeSort" type="Application" factoryName="Application">
@@ -89,22 +101,22 @@
     </todo-panel>
   </component>
   <component name="WindowStateProjectService">
-    <state width="3073" height="476" key="GridCell.Tab.0.bottom" timestamp="1606990166114">
+    <state width="3073" height="476" key="GridCell.Tab.0.bottom" timestamp="1607008659806">
       <screen x="3840" y="0" width="3072" height="1688" />
     </state>
-    <state width="3073" height="476" key="GridCell.Tab.0.bottom/3840.0.3072.1688/0.0.3072.1688@3840.0.3072.1688" timestamp="1606990166114" />
-    <state width="3073" height="476" key="GridCell.Tab.0.center" timestamp="1606990166114">
+    <state width="3073" height="476" key="GridCell.Tab.0.bottom/3840.0.3072.1688/0.0.3072.1688@3840.0.3072.1688" timestamp="1607008659806" />
+    <state width="3073" height="476" key="GridCell.Tab.0.center" timestamp="1607008659806">
       <screen x="3840" y="0" width="3072" height="1688" />
     </state>
-    <state width="3073" height="476" key="GridCell.Tab.0.center/3840.0.3072.1688/0.0.3072.1688@3840.0.3072.1688" timestamp="1606990166114" />
-    <state width="3073" height="476" key="GridCell.Tab.0.left" timestamp="1606990166114">
+    <state width="3073" height="476" key="GridCell.Tab.0.center/3840.0.3072.1688/0.0.3072.1688@3840.0.3072.1688" timestamp="1607008659806" />
+    <state width="3073" height="476" key="GridCell.Tab.0.left" timestamp="1607008659806">
       <screen x="3840" y="0" width="3072" height="1688" />
     </state>
-    <state width="3073" height="476" key="GridCell.Tab.0.left/3840.0.3072.1688/0.0.3072.1688@3840.0.3072.1688" timestamp="1606990166114" />
-    <state width="3073" height="476" key="GridCell.Tab.0.right" timestamp="1606990166114">
+    <state width="3073" height="476" key="GridCell.Tab.0.left/3840.0.3072.1688/0.0.3072.1688@3840.0.3072.1688" timestamp="1607008659806" />
+    <state width="3073" height="476" key="GridCell.Tab.0.right" timestamp="1607008659806">
       <screen x="3840" y="0" width="3072" height="1688" />
     </state>
-    <state width="3073" height="476" key="GridCell.Tab.0.right/3840.0.3072.1688/0.0.3072.1688@3840.0.3072.1688" timestamp="1606990166114" />
+    <state width="3073" height="476" key="GridCell.Tab.0.right/3840.0.3072.1688/0.0.3072.1688@3840.0.3072.1688" timestamp="1607008659806" />
     <state x="4673" y="315" width="1830" height="1126" key="SettingsEditor" timestamp="1606990888080">
       <screen x="3840" y="0" width="3072" height="1688" />
     </state>
