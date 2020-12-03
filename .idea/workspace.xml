@@ -39,9 +39,9 @@
   <component name="PropertiesComponent">
     <property name="ToolWindowMessages.ShowToolbar" value="false" />
     <property name="ToolWindowRun.ShowToolbar" value="false" />
-    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
-  <component name="RunManager" selected="Application.Quadratic">
+  <component name="RunManager" selected="Application.Hello.ThreeSort">
     <configuration name="Exchange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Exchange" />
       <module name="Computer Science" />
@@ -53,10 +53,21 @@
       <module name="Computer Science" />
       <method v="2" />
     </configuration>
+    <configuration name="Hello.ThreeSort" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Hello.ThreeSort" />
+      <module name="Computer Science" />
+      <option name="PROGRAM_PARAMETERS" value="9 14 0" />
+      <method v="2" />
+    </configuration>
     <configuration name="Quadratic" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="Quadratic" />
       <module name="Computer Science" />
       <option name="PROGRAM_PARAMETERS" value="3 1 5" />
+      <method v="2" />
+    </configuration>
+    <configuration name="UniformRandom" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="UniformRandom" />
+      <module name="Computer Science" />
       <method v="2" />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -78,25 +89,26 @@
     </todo-panel>
   </component>
   <component name="WindowStateProjectService">
-    <state width="3073" height="476" key="GridCell.Tab.0.bottom" timestamp="1606957261600">
+    <state width="3073" height="476" key="GridCell.Tab.0.bottom" timestamp="1606990166114">
       <screen x="3840" y="0" width="3072" height="1688" />
     </state>
-    <state width="3073" height="476" key="GridCell.Tab.0.bottom/3840.0.3072.1688/0.0.3072.1688@3840.0.3072.1688" timestamp="1606957261600" />
-    <state width="3073" height="476" key="GridCell.Tab.0.center" timestamp="1606957261600">
+    <state width="3073" height="476" key="GridCell.Tab.0.bottom/3840.0.3072.1688/0.0.3072.1688@3840.0.3072.1688" timestamp="1606990166114" />
+    <state width="3073" height="476" key="GridCell.Tab.0.center" timestamp="1606990166114">
       <screen x="3840" y="0" width="3072" height="1688" />
     </state>
-    <state width="3073" height="476" key="GridCell.Tab.0.center/3840.0.3072.1688/0.0.3072.1688@3840.0.3072.1688" timestamp="1606957261600" />
-    <state width="3073" height="476" key="GridCell.Tab.0.left" timestamp="1606957261600">
+    <state width="3073" height="476" key="GridCell.Tab.0.center/3840.0.3072.1688/0.0.3072.1688@3840.0.3072.1688" timestamp="1606990166114" />
+    <state width="3073" height="476" key="GridCell.Tab.0.left" timestamp="1606990166114">
       <screen x="3840" y="0" width="3072" height="1688" />
     </state>
-    <state width="3073" height="476" key="GridCell.Tab.0.left/3840.0.3072.1688/0.0.3072.1688@3840.0.3072.1688" timestamp="1606957261600" />
-    <state width="3073" height="476" key="GridCell.Tab.0.right" timestamp="1606957261600">
+    <state width="3073" height="476" key="GridCell.Tab.0.left/3840.0.3072.1688/0.0.3072.1688@3840.0.3072.1688" timestamp="1606990166114" />
+    <state width="3073" height="476" key="GridCell.Tab.0.right" timestamp="1606990166114">
       <screen x="3840" y="0" width="3072" height="1688" />
     </state>
-    <state width="3073" height="476" key="GridCell.Tab.0.right/3840.0.3072.1688/0.0.3072.1688@3840.0.3072.1688" timestamp="1606957261600" />
-    <state x="4673" y="315" key="SettingsEditor" timestamp="1606955739342">
+    <state width="3073" height="476" key="GridCell.Tab.0.right/3840.0.3072.1688/0.0.3072.1688@3840.0.3072.1688" timestamp="1606990166114" />
+    <state x="4673" y="315" width="1830" height="1126" key="SettingsEditor" timestamp="1606990888080">
       <screen x="3840" y="0" width="3072" height="1688" />
     </state>
-    <state x="4673" y="315" key="SettingsEditor/3840.0.3072.1688/0.0.3072.1688@3840.0.3072.1688" timestamp="1606955739342" />
+    <state x="833" y="315" key="SettingsEditor/3840.0.3072.1688/0.0.3072.1688@0.0.3072.1688" timestamp="1606984921388" />
+    <state x="4673" y="315" width="1830" height="1126" key="SettingsEditor/3840.0.3072.1688/0.0.3072.1688@3840.0.3072.1688" timestamp="1606990888080" />
   </component>
 </project>
