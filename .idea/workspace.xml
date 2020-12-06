@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c1e4f978-b3bd-4ae1-84e9-9e1170bce808" name="Default" comment="" />
+    <list default="true" id="c1e4f978-b3bd-4ae1-84e9-9e1170bce808" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/COS_126.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/COS_126.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hello/RightTriangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hello/RightTriangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/Hello/RightTriangle.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,6 +32,9 @@
     <analyzeAfterCompile>true</analyzeAfterCompile>
     <toolWindowToFront>false</toolWindowToFront>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1l7j5RoZmNK25QAB2e0M6HJTFkt" />
   <component name="ProjectViewState">
     <option name="abbreviatePackageNames" value="true" />
@@ -37,11 +46,16 @@
     <option name="sortByType" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="ToolWindowMessages.ShowToolbar" value="false" />
     <property name="ToolWindowRun.ShowToolbar" value="false" />
-    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
-  <component name="RunManager" selected="Application.Hello.RightTriangle">
+  <component name="RunManager" selected="Application.HelloWorld">
     <configuration name="Exchange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Exchange" />
       <module name="Computer Science" />
@@ -77,6 +91,12 @@
       <option name="PROGRAM_PARAMETERS" value="3 1 5" />
       <method v="2" />
     </configuration>
+    <configuration name="RightTriangle" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="RightTriangle" />
+      <module name="Computer Science" />
+      <option name="PROGRAM_PARAMETERS" value="3 4 5" />
+      <method v="2" />
+    </configuration>
     <configuration name="UniformRandom" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="UniformRandom" />
       <module name="Computer Science" />
@@ -91,6 +111,22 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="project-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <created>1607250796836</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607250796836</updated>
+      <workItem from="1607250798130" duration="88000" />
+      <workItem from="1607250991169" duration="55000" />
+      <workItem from="1607251179300" duration="17000" />
+      <workItem from="1607252177359" duration="20000" />
+      <workItem from="1607260782551" duration="28000" />
+      <workItem from="1607260821796" duration="7000" />
+    </task>
+    <servers />
+  </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
       <is-autoscroll-to-source value="true" />
@@ -100,27 +136,7 @@
       <is-autoscroll-to-source value="true" />
     </todo-panel>
   </component>
-  <component name="WindowStateProjectService">
-    <state width="3073" height="476" key="GridCell.Tab.0.bottom" timestamp="1607008659806">
-      <screen x="3840" y="0" width="3072" height="1688" />
-    </state>
-    <state width="3073" height="476" key="GridCell.Tab.0.bottom/3840.0.3072.1688/0.0.3072.1688@3840.0.3072.1688" timestamp="1607008659806" />
-    <state width="3073" height="476" key="GridCell.Tab.0.center" timestamp="1607008659806">
-      <screen x="3840" y="0" width="3072" height="1688" />
-    </state>
-    <state width="3073" height="476" key="GridCell.Tab.0.center/3840.0.3072.1688/0.0.3072.1688@3840.0.3072.1688" timestamp="1607008659806" />
-    <state width="3073" height="476" key="GridCell.Tab.0.left" timestamp="1607008659806">
-      <screen x="3840" y="0" width="3072" height="1688" />
-    </state>
-    <state width="3073" height="476" key="GridCell.Tab.0.left/3840.0.3072.1688/0.0.3072.1688@3840.0.3072.1688" timestamp="1607008659806" />
-    <state width="3073" height="476" key="GridCell.Tab.0.right" timestamp="1607008659806">
-      <screen x="3840" y="0" width="3072" height="1688" />
-    </state>
-    <state width="3073" height="476" key="GridCell.Tab.0.right/3840.0.3072.1688/0.0.3072.1688@3840.0.3072.1688" timestamp="1607008659806" />
-    <state x="4673" y="315" width="1830" height="1126" key="SettingsEditor" timestamp="1606990888080">
-      <screen x="3840" y="0" width="3072" height="1688" />
-    </state>
-    <state x="833" y="315" key="SettingsEditor/3840.0.3072.1688/0.0.3072.1688@0.0.3072.1688" timestamp="1606984921388" />
-    <state x="4673" y="315" width="1830" height="1126" key="SettingsEditor/3840.0.3072.1688/0.0.3072.1688@3840.0.3072.1688" timestamp="1606990888080" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
 </project>
